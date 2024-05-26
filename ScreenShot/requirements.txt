@@ -1,0 +1,7 @@
+screeninfo
+pyautogui
+keyboard
+toml
+av
+numpy
+plyer
